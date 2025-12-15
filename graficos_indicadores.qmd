@@ -1,0 +1,19 @@
+---
+title: "indicadores"
+format: html
+editor: visual
+---
+
+
+## Plan de indicadores 
+
+```{r}
+library(tidyverse)
+library(openxlsx)
+library(eph)
+library(patchwork)
+library(scales)
+library(readxl)
+options(scipen = 999)
+```
+
